@@ -37,6 +37,7 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choi138&layout=compact">
+	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=choi138&show_icons=true">
 
 ![Choi138's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=choi138)
